@@ -22,5 +22,6 @@
     "download-git-repo": "^3.0.2",
     "ejs": "^3.1.9",
     "open": "^9.1.0"
-  }
+  },
+  "http.proxyAuthorization": "false"
 }
