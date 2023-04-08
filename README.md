@@ -6,6 +6,7 @@
 
 - 安装了 cnpm
 - Github 访问正常
+- 执行 `sudo npm link`
 
 ## 食用方式
 
