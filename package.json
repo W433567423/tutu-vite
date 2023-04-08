@@ -1,9 +1,8 @@
 {
-  "name": "tutu-cli",
+  "name": "tutu-vite",
   "version": "1.0.0",
-  "description": "",
+  "description": "一个高度定制化的前端脚手架(基于 vite4)",
   "main": "index.js",
-  "type": "module",
   "bin": {
     "tutu-cli": "index.js"
   },
@@ -11,9 +10,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint lib/**/*.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "vue",
+    "tutu",
+    "tutu-vite",
+    "vite"
+  ],
+  "author": "tutu",
+  "license": "MIT",
+  "homepage": "https://github.com/W433567423",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/W433567423/tutu-cli"
+  },
   "devDependencies": {
     "eslint": "^8.38.0",
     "webpack": "^5.76.3"
