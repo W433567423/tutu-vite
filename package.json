@@ -1,11 +1,11 @@
 {
   "name": "tutu-vite",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "一个高度定制化的前端脚手架(基于 vite4)",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "tutu-cli": "index.js"
+    "tutu-vite": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/W433567423",
   "repository": {
     "type": "git",
-    "url": "https://github.com/W433567423/tutu-cli"
+    "url": "https://github.com/W433567423/tutu-vite"
   },
   "devDependencies": {
     "eslint": "^8.38.0",
