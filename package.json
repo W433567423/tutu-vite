@@ -1,11 +1,11 @@
 {
-  "name": "tutu",
+  "name": "tutu-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "tutu": "index.js"
+    "tutu-cli": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
