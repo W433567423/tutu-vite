@@ -21,19 +21,21 @@
 
 ### 新增一个页面:
 
-- **命令**:`tutu newpage <pageName> [-d <dest>]`
+- **命令**:`tutu newpage <pageName> [-d <dest>] [-e <edition>]`
 
 - **功能描述**:会自动添加页面与路由
 - **参数描述**:使用 -d 来指定路径(默认为 src/pages)
+- **参数描述**:使用 -e 来指定版本(默认为 vue3)
 - **eg**: tutu newpage newPage
 - **注意事项**:<mark>已自动引入该页面</mark>
 
 ### 新增一个组件:
 
-- **命令**:`tutu newcpn <componentName> [-d <dest>]`
+- **命令**:`tutu newcpn <componentName> [-d <dest>] [-e <edition>]`
 
 - **功能描述**:会自动添加组件
 - **参数描述**:使用 -d 来指定路径(默认为 src/components)
+- **参数描述**:使用 -e 来指定版本(默认为 vue3)
 - **eg**: tutu newcpn halloWorld
 
 ### 新增一个 store 模块:
