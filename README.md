@@ -52,8 +52,8 @@
 
 - 使用**命令**:`tutu-vite -h`获取帮助信息
 - 使用**命令**:`tutu-vite -V`查看当前版本信息
-- <mark>注意,您的 TS 声明文件应为 type.ts/\*.d.ts</mark>
+- <mark>注意,您的 TS 声明文件应为 type.ts/\*.d.ts 格式</mark>
 
 ## 画饼
 
-- 将来会支持更多模板(如 vue2,或是自动配置一些 ui 库)和框架(如 React),
+- 将来会支持更多模板(如 vue2,或是自动配置一些 ui 库)火之歌框架(如 React),
