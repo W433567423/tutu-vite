@@ -22,30 +22,30 @@
 
 ### 新增一个页面:
 
-- **命令**:`tutu-vite newpage <pageName> [-d <dest>] [-e <edition>]`
+- **命令**:`tutu-vite newPage <pageName> [-d <dest>] [-e <edition>]`
 
 - **功能描述**:会自动添加页面与路由
 - **参数描述**:使用 -d 来指定路径(默认为 src/pages)
 - **参数描述**:使用 -e 来指定版本(默认为 vue3)
-- **eg**: tutu-vite newpage newPage
+- **eg**: tutu-vite newPage newPage
 - **注意事项**:<mark>已自动引入该页面</mark>
 
 ### 新增一个组件:
 
-- **命令**:`tutu-vite newcpn <componentName> [-d <dest>] [-e <edition>]`
+- **命令**:`tutu-vite newCpn <componentName> [-d <dest>] [-e <edition>]`
 
 - **功能描述**:会自动添加组件
 - **参数描述**:使用 -d 来指定路径(默认为 src/components)
 - **参数描述**:使用 -e 来指定版本(默认为 vue3)
-- **eg**: tutu-vite newcpn halloWorld
+- **eg**: tutu-vite newCpn halloWorld
 
 ### 新增一个 store 模块:
 
-- **命令**:`tutu-vite newstore <moduleName> [-d <dest>]`
+- **命令**:`tutu-vite newStore <moduleName> [-d <dest>]`
 
 - **功能描述**:会自动添加一个 store 模块和声明文件
 - **参数描述**:使用 -d 来指定路径(默认为 src/store/modules)
-- **eg**: tutu-vite newstore user
+- **eg**: tutu-vite newStore user
 - **注意事项:**<mark>已自动引入该模块</mark>
 
 ## 帮助&&其他
