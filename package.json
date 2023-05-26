@@ -1,6 +1,6 @@
 {
   "name": "tutu-vite",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "一个高度定制化的前端脚手架(基于 vite4)",
   "main": "index.js",
   "type": "module",
